@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an Applied Data Science student at the Pennsylvania State University with a focus in Information and Cybersecurity Sciences. 
 
 ## Research Interests
 
